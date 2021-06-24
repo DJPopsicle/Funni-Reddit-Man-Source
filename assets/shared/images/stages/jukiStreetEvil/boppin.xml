@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boppin.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bottom Level Boppers0000" x="0" y="0" width="1870" height="509" pivotX="-10.1" pivotY="-79.4" frameX="-7" frameY="-34" frameWidth="1887" frameHeight="547"/>
+	<SubTexture name="Bottom Level Boppers0001" x="1870" y="0" width="1870" height="509" frameX="-7" frameY="-34" frameWidth="1887" frameHeight="547"/>
+	<SubTexture name="Bottom Level Boppers0002" x="3740" y="0" width="1867" height="530" frameX="-11" frameY="-14" frameWidth="1887" frameHeight="547"/>
+	<SubTexture name="Bottom Level Boppers0003" x="5607" y="0" width="1867" height="530" frameX="-11" frameY="-14" frameWidth="1887" frameHeight="547"/>
+	<SubTexture name="Bottom Level Boppers0004" x="0" y="530" width="1887" height="541" frameX="0" frameY="-6" frameWidth="1887" frameHeight="547"/>
+	<SubTexture name="Bottom Level Boppers0005" x="1887" y="530" width="1887" height="541" frameX="0" frameY="-6" frameWidth="1887" frameHeight="547"/>
+	<SubTexture name="Bottom Level Boppers0006" x="3774" y="530" width="1887" height="547"/>
+	<SubTexture name="Bottom Level Boppers0007" x="5661" y="530" width="1887" height="547"/>
+	<SubTexture name="Bottom Level Boppers0008" x="0" y="1077" width="1884" height="547" frameX="-3" frameY="0" frameWidth="1887" frameHeight="547"/>
+	<SubTexture name="Bottom Level Boppers0009" x="1884" y="1077" width="1887" height="547"/>
+	<SubTexture name="Bottom Level Boppers0010" x="3771" y="1077" width="1887" height="547"/>
+	<SubTexture name="Bottom Level Boppers0011" x="5658" y="1077" width="1887" height="547"/>
+	<SubTexture name="Bottom Level Boppers0012" x="0" y="1624" width="1887" height="547"/>
+	<SubTexture name="Bottom Level Boppers0013" x="1887" y="1624" width="1887" height="547"/>
+</TextureAtlas>

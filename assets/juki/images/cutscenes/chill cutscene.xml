@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chill cutscene.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0000" x="0" y="0" width="385" height="358" pivotX="177.35" pivotY="272.15" frameX="0" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0001" x="0" y="0" width="385" height="358" frameX="0" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0002" x="0" y="0" width="385" height="358" frameX="0" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0003" x="0" y="0" width="385" height="358" frameX="0" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0004" x="0" y="0" width="385" height="358" frameX="0" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0005" x="0" y="0" width="385" height="358" frameX="0" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0006" x="385" y="0" width="372" height="358" frameX="-19" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0007" x="385" y="0" width="372" height="358" frameX="-19" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0008" x="385" y="0" width="372" height="358" frameX="-19" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0009" x="385" y="0" width="372" height="358" frameX="-19" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0010" x="385" y="0" width="372" height="358" frameX="-19" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0011" x="385" y="0" width="372" height="358" frameX="-19" frameY="0" frameWidth="391" frameHeight="358"/>
+	<SubTexture name="AAAAAAAAAAAAAAAAAAAA0012" x="385" y="0" width="372" height="358" frameX="-19" frameY="0" frameWidth="391" frameHeight="358"/>
+</TextureAtlas>

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_juki_menu_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="config idle0000" x="0" y="0" width="533" height="108" pivotX="35.8" pivotY="2" frameX="-4" frameY="0" frameWidth="537" frameHeight="108"/>
+	<SubTexture name="config idle0001" x="533" y="0" width="533" height="108" frameX="-4" frameY="0" frameWidth="537" frameHeight="108"/>
+	<SubTexture name="config idle0002" x="1066" y="0" width="535" height="106" frameX="-2" frameY="0" frameWidth="537" frameHeight="108"/>
+	<SubTexture name="config idle0003" x="1601" y="0" width="535" height="106" frameX="-2" frameY="0" frameWidth="537" frameHeight="108"/>
+	<SubTexture name="config idle0004" x="2136" y="0" width="537" height="106" frameX="0" frameY="0" frameWidth="537" frameHeight="108"/>
+	<SubTexture name="config idle0005" x="2673" y="0" width="537" height="106" frameX="0" frameY="0" frameWidth="537" frameHeight="108"/>
+	<SubTexture name="config idle0006" x="3210" y="0" width="531" height="106" frameX="-6" frameY="0" frameWidth="537" frameHeight="108"/>
+	<SubTexture name="config idle0007" x="3741" y="0" width="531" height="106" frameX="-6" frameY="0" frameWidth="537" frameHeight="108"/>
+	<SubTexture name="config idle0008" x="4272" y="0" width="531" height="106" frameX="-6" frameY="0" frameWidth="537" frameHeight="108"/>
+	<SubTexture name="config selected0000" x="4803" y="0" width="553" height="147" pivotX="42.3" pivotY="55.25"/>
+	<SubTexture name="config selected0001" x="5356" y="0" width="553" height="147"/>
+	<SubTexture name="config selected0002" x="5909" y="0" width="553" height="147"/>
+	<SubTexture name="config selected0003" x="6462" y="0" width="553" height="147"/>
+	<SubTexture name="config selected0004" x="7015" y="0" width="553" height="147"/>
+	<SubTexture name="config selected0005" x="7568" y="0" width="553" height="147"/>
+	<SubTexture name="config selected0006" x="0" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0007" x="553" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0008" x="1106" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0009" x="1659" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0010" x="2212" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0011" x="2765" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0012" x="3318" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0013" x="3871" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0014" x="4424" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0015" x="4977" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0016" x="5530" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0017" x="6083" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0018" x="6636" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0019" x="7189" y="147" width="553" height="147"/>
+	<SubTexture name="config selected0020" x="0" y="294" width="553" height="147"/>
+	<SubTexture name="config selected0021" x="553" y="294" width="553" height="147"/>
+	<SubTexture name="config selected0022" x="1106" y="294" width="553" height="147"/>
+	<SubTexture name="config selected0023" x="1659" y="294" width="553" height="147"/>
+	<SubTexture name="config selected0024" x="2212" y="294" width="553" height="147"/>
+	<SubTexture name="config selected0025" x="2765" y="294" width="553" height="147"/>
+	<SubTexture name="config selected0026" x="3318" y="294" width="553" height="147"/>
+	<SubTexture name="discord idle0000" x="3871" y="294" width="578" height="107" pivotX="35.8" pivotY="1" frameX="-4" frameY="0" frameWidth="582" frameHeight="107"/>
+	<SubTexture name="discord idle0001" x="4449" y="294" width="578" height="107" frameX="-4" frameY="0" frameWidth="582" frameHeight="107"/>
+	<SubTexture name="discord idle0002" x="5027" y="294" width="580" height="106" frameX="-2" frameY="0" frameWidth="582" frameHeight="107"/>
+	<SubTexture name="discord idle0003" x="5607" y="294" width="580" height="106" frameX="-2" frameY="0" frameWidth="582" frameHeight="107"/>
+	<SubTexture name="discord idle0004" x="6187" y="294" width="582" height="106" frameX="0" frameY="0" frameWidth="582" frameHeight="107"/>
+	<SubTexture name="discord idle0005" x="6769" y="294" width="582" height="106" frameX="0" frameY="0" frameWidth="582" frameHeight="107"/>
+	<SubTexture name="discord idle0006" x="7351" y="294" width="576" height="106" frameX="-6" frameY="0" frameWidth="582" frameHeight="107"/>
+	<SubTexture name="discord idle0007" x="0" y="441" width="576" height="106" frameX="-6" frameY="0" frameWidth="582" frameHeight="107"/>
+	<SubTexture name="discord idle0008" x="576" y="441" width="576" height="106" frameX="-6" frameY="0" frameWidth="582" frameHeight="107"/>
+	<SubTexture name="discord selected0000" x="1152" y="441" width="596" height="143" pivotX="40.8" pivotY="26.05"/>
+	<SubTexture name="discord selected0001" x="1748" y="441" width="596" height="143"/>
+	<SubTexture name="discord selected0002" x="2344" y="441" width="596" height="143"/>
+	<SubTexture name="discord selected0003" x="2940" y="441" width="596" height="143"/>
+	<SubTexture name="discord selected0004" x="3536" y="441" width="596" height="143"/>
+	<SubTexture name="discord selected0005" x="4132" y="441" width="596" height="143"/>
+	<SubTexture name="discord selected0006" x="4728" y="441" width="596" height="143"/>
+	<SubTexture name="discord selected0007" x="5324" y="441" width="596" height="143"/>
+	<SubTexture name="discord selected0008" x="5920" y="441" width="596" height="143"/>
+	<SubTexture name="discord selected0009" x="6516" y="441" width="596" height="143"/>
+	<SubTexture name="discord selected0010" x="7112" y="441" width="596" height="143"/>
+	<SubTexture name="discord selected0011" x="0" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0012" x="596" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0013" x="1192" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0014" x="1788" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0015" x="2384" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0016" x="2980" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0017" x="3576" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0018" x="4172" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0019" x="4768" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0020" x="5364" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0021" x="5960" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0022" x="6556" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0023" x="7152" y="584" width="596" height="143"/>
+	<SubTexture name="discord selected0024" x="0" y="727" width="596" height="143"/>
+	<SubTexture name="discord selected0025" x="596" y="727" width="596" height="143"/>
+	<SubTexture name="discord selected0026" x="1192" y="727" width="596" height="143"/>
+	<SubTexture name="freeplay idle0000" x="1788" y="727" width="670" height="107" pivotX="35.8" pivotY="1" frameX="-4" frameY="0" frameWidth="674" frameHeight="107"/>
+	<SubTexture name="freeplay idle0001" x="2458" y="727" width="670" height="107" frameX="-4" frameY="0" frameWidth="674" frameHeight="107"/>
+	<SubTexture name="freeplay idle0002" x="3128" y="727" width="672" height="105" frameX="-2" frameY="0" frameWidth="674" frameHeight="107"/>
+	<SubTexture name="freeplay idle0003" x="3800" y="727" width="672" height="105" frameX="-2" frameY="0" frameWidth="674" frameHeight="107"/>
+	<SubTexture name="freeplay idle0004" x="4472" y="727" width="674" height="105" frameX="0" frameY="0" frameWidth="674" frameHeight="107"/>
+	<SubTexture name="freeplay idle0005" x="5146" y="727" width="674" height="105" frameX="0" frameY="0" frameWidth="674" frameHeight="107"/>
+	<SubTexture name="freeplay idle0006" x="5820" y="727" width="668" height="105" frameX="-6" frameY="0" frameWidth="674" frameHeight="107"/>
+	<SubTexture name="freeplay idle0007" x="6488" y="727" width="668" height="105" frameX="-6" frameY="0" frameWidth="674" frameHeight="107"/>
+	<SubTexture name="freeplay idle0008" x="7156" y="727" width="668" height="105" frameX="-6" frameY="0" frameWidth="674" frameHeight="107"/>
+	<SubTexture name="freeplay selected0000" x="0" y="870" width="689" height="147" pivotX="42.25" pivotY="25.15"/>
+	<SubTexture name="freeplay selected0001" x="689" y="870" width="689" height="147"/>
+	<SubTexture name="freeplay selected0002" x="1378" y="870" width="689" height="147"/>
+	<SubTexture name="freeplay selected0003" x="2067" y="870" width="689" height="147"/>
+	<SubTexture name="freeplay selected0004" x="2756" y="870" width="689" height="147"/>
+	<SubTexture name="freeplay selected0005" x="3445" y="870" width="689" height="147"/>
+	<SubTexture name="freeplay selected0006" x="4134" y="870" width="689" height="147"/>
+	<SubTexture name="freeplay selected0007" x="4823" y="870" width="689" height="147"/>
+	<SubTexture name="freeplay selected0008" x="5512" y="870" width="689" height="147"/>
+	<SubTexture name="freeplay selected0009" x="6201" y="870" width="689" height="147"/>
+	<SubTexture name="freeplay selected0010" x="6890" y="870" width="689" height="147"/>
+	<SubTexture name="freeplay selected0011" x="0" y="1017" width="689" height="147"/>
+	<SubTexture name="freeplay selected0012" x="689" y="1017" width="689" height="147"/>
+	<SubTexture name="freeplay selected0013" x="1378" y="1017" width="689" height="147"/>
+	<SubTexture name="freeplay selected0014" x="2067" y="1017" width="689" height="147"/>
+	<SubTexture name="freeplay selected0015" x="2756" y="1017" width="689" height="147"/>
+	<SubTexture name="freeplay selected0016" x="3445" y="1017" width="689" height="147"/>
+	<SubTexture name="freeplay selected0017" x="4134" y="1017" width="689" height="147"/>
+	<SubTexture name="freeplay selected0018" x="4823" y="1017" width="689" height="147"/>
+	<SubTexture name="freeplay selected0019" x="5512" y="1017" width="689" height="147"/>
+	<SubTexture name="freeplay selected0020" x="6201" y="1017" width="689" height="147"/>
+	<SubTexture name="freeplay selected0021" x="6890" y="1017" width="689" height="147"/>
+	<SubTexture name="freeplay selected0022" x="0" y="1164" width="689" height="147"/>
+	<SubTexture name="freeplay selected0023" x="689" y="1164" width="689" height="147"/>
+	<SubTexture name="freeplay selected0024" x="1378" y="1164" width="689" height="147"/>
+	<SubTexture name="freeplay selected0025" x="2067" y="1164" width="689" height="147"/>
+	<SubTexture name="freeplay selected0026" x="2756" y="1164" width="689" height="147"/>
+	<SubTexture name="play idle0000" x="3445" y="1164" width="340" height="106" pivotX="35.8" pivotY="0" frameX="-4" frameY="0" frameWidth="344" frameHeight="106"/>
+	<SubTexture name="play idle0001" x="3785" y="1164" width="340" height="106" frameX="-4" frameY="0" frameWidth="344" frameHeight="106"/>
+	<SubTexture name="play idle0002" x="4125" y="1164" width="342" height="105" frameX="-2" frameY="0" frameWidth="344" frameHeight="106"/>
+	<SubTexture name="play idle0003" x="4467" y="1164" width="342" height="105" frameX="-2" frameY="0" frameWidth="344" frameHeight="106"/>
+	<SubTexture name="play idle0004" x="4809" y="1164" width="344" height="105" frameX="0" frameY="0" frameWidth="344" frameHeight="106"/>
+	<SubTexture name="play idle0005" x="5153" y="1164" width="344" height="105" frameX="0" frameY="0" frameWidth="344" frameHeight="106"/>
+	<SubTexture name="play idle0006" x="5497" y="1164" width="338" height="105" frameX="-6" frameY="0" frameWidth="344" frameHeight="106"/>
+	<SubTexture name="play idle0007" x="5835" y="1164" width="338" height="105" frameX="-6" frameY="0" frameWidth="344" frameHeight="106"/>
+	<SubTexture name="play idle0008" x="6173" y="1164" width="338" height="105" frameX="-6" frameY="0" frameWidth="344" frameHeight="106"/>
+	<SubTexture name="play selected0000" x="6511" y="1164" width="359" height="149" pivotX="53.75" pivotY="15.5"/>
+	<SubTexture name="play selected0001" x="6870" y="1164" width="359" height="149"/>
+	<SubTexture name="play selected0002" x="7229" y="1164" width="359" height="149"/>
+	<SubTexture name="play selected0003" x="7588" y="1164" width="359" height="149"/>
+	<SubTexture name="play selected0004" x="0" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0005" x="359" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0006" x="718" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0007" x="1077" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0008" x="1436" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0009" x="1795" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0010" x="2154" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0011" x="2513" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0012" x="2872" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0013" x="3231" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0014" x="3590" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0015" x="3949" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0016" x="4308" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0017" x="4667" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0018" x="5026" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0019" x="5385" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0020" x="5744" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0021" x="6103" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0022" x="6462" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0023" x="6821" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0024" x="7180" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0025" x="7539" y="1313" width="359" height="149"/>
+	<SubTexture name="play selected0026" x="0" y="1462" width="359" height="149"/>
+</TextureAtlas>

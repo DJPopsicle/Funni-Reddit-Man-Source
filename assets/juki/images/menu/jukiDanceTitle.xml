@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jukiDanceTitle.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jukiDance0000" x="0" y="0" width="749" height="708" pivotX="174.35" pivotY="376.4" frameX="0" frameY="-15" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0001" x="749" y="0" width="749" height="708" frameX="0" frameY="-15" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0002" x="1498" y="0" width="745" height="710" frameX="-2" frameY="-13" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0003" x="2243" y="0" width="745" height="710" frameX="-2" frameY="-13" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0004" x="2988" y="0" width="745" height="713" frameX="-2" frameY="-10" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0005" x="3733" y="0" width="745" height="713" frameX="-2" frameY="-10" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0006" x="4478" y="0" width="745" height="722" frameX="-2" frameY="-1" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0007" x="5223" y="0" width="745" height="722" frameX="-2" frameY="-1" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0008" x="5968" y="0" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0009" x="6713" y="0" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0010" x="0" y="723" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0011" x="745" y="723" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0012" x="1490" y="723" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0013" x="2235" y="723" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0014" x="2980" y="723" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0015" x="3725" y="723" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0016" x="4470" y="723" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0017" x="5215" y="723" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0018" x="5960" y="723" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0019" x="6705" y="723" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0020" x="0" y="1446" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0021" x="745" y="1446" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0022" x="1490" y="1446" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0023" x="2235" y="1446" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0024" x="2980" y="1446" width="745" height="723" frameX="-2" frameY="0" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0025" x="3725" y="1446" width="749" height="708" frameX="0" frameY="-15" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0026" x="4474" y="1446" width="749" height="708" frameX="0" frameY="-15" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0027" x="5223" y="1446" width="745" height="710" frameX="-2" frameY="-13" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0028" x="5968" y="1446" width="745" height="710" frameX="-2" frameY="-13" frameWidth="749" frameHeight="723"/>
+	<SubTexture name="jukiDance0029" x="6713" y="1446" width="745" height="713" frameX="-2" frameY="-10" frameWidth="749" frameHeight="723"/>
+</TextureAtlas>

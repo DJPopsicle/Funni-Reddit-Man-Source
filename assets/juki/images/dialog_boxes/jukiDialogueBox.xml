@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jukiDialogueBox.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="appear0000" x="0" y="0" width="52" height="52" pivotX="1103.8" pivotY="446.4" frameX="-1067" frameY="-424" frameWidth="2211" frameHeight="897"/>
+	<SubTexture name="appear0001" x="52" y="0" width="821" height="634" frameX="-665" frameY="-157" frameWidth="2211" frameHeight="897"/>
+	<SubTexture name="appear0002" x="873" y="0" width="800" height="662" frameX="-690" frameY="-136" frameWidth="2211" frameHeight="897"/>
+	<SubTexture name="appear0003" x="1673" y="0" width="915" height="638" frameX="-620" frameY="-128" frameWidth="2211" frameHeight="897"/>
+	<SubTexture name="appear0004" x="2588" y="0" width="2211" height="897"/>
+	<SubTexture name="appear0005" x="4799" y="0" width="1849" height="753" frameX="-181" frameY="-72" frameWidth="2211" frameHeight="897"/>
+	<SubTexture name="appear0006" x="0" y="897" width="1683" height="687" frameX="-264" frameY="-105" frameWidth="2211" frameHeight="897"/>
+	<SubTexture name="appear0007" x="1683" y="897" width="1647" height="672" frameX="-282" frameY="-113" frameWidth="2211" frameHeight="897"/>
+	<SubTexture name="appear0008" x="3330" y="897" width="1675" height="683" frameX="-268" frameY="-107" frameWidth="2211" frameHeight="897"/>
+	<SubTexture name="appear0009" x="5005" y="897" width="1698" height="692" frameX="-256" frameY="-103" frameWidth="2211" frameHeight="897"/>
+</TextureAtlas>
