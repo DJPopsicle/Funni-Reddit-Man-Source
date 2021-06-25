@@ -23,6 +23,9 @@ class GameOverSubstate extends MusicBeatSubstate
 			case 'bf-pixel':
 				stageSuffix = '-pixel';
 				daBf = 'bf-pixel-dead';
+			case 'bfandgf':
+				stageSuffix = '';
+				daBf = 'bfandgf';
 			default:
 				daBf = 'bf';
 		}
@@ -37,7 +40,7 @@ class GameOverSubstate extends MusicBeatSubstate
 		camFollow = new FlxObject(bf.getGraphicMidpoint().x, bf.getGraphicMidpoint().y, 1, 1);
 		add(camFollow);
 
-		FlxG.sound.play(Paths.sound('fnf_loss_sfx' + stageSuffix));
+		FlxG.sound.playMusic(Paths.music('juki/gameplay/Juki-GameOver'));
 		Conductor.changeBPM(100);
 
 		// FlxG.camera.followLerp = 1;

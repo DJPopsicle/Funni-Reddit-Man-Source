@@ -113,6 +113,8 @@ class CautionState extends MusicBeatState
 				// LoadingState.loadAndSwitchState(new CautionState());
 				// FlxG.switchState(new MainMenuState());
 				FlxG.switchState(new TitleState());
+				// LoadingState.loadAndSwitchState(new VideoState("assets/videos/release/VS Juki Release Trailer.webm", new TitleState()));
+				// FlxG.switchState(new VideoState("assets/videos/release/VS_Juki_Release_Trailer.webm", new TitleState()));
 			}});
 			// FlxG.switchState(new TitleState());
 		}
@@ -122,6 +124,6 @@ class CautionState extends MusicBeatState
 	// }
 	// public function endIt(e:FlxTimer=null){
 	// 	trace("STARTING GAME");
-	// 	FlxG.switchState(new TitleState());
+	// 	LoadingState.loadAndSwitchState(new VideoState("release/VS Juki Release Trailer", new TitleState()));
 	}
 }

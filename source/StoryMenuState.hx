@@ -26,7 +26,7 @@ class StoryMenuState extends MusicBeatState
 	var videoWasntShown:Bool;
 
 	var weekData:Array<Dynamic> = [
-		// ['Tutorial'],
+		['Tutorial'],
 		// ['Bopeebo', 'Fresh', 'Dad Battle'],
 		// ['Spookeez', 'South', "Monster"],
 		// ['Pico', 'Philly Nice', "Blammed"],
@@ -37,10 +37,10 @@ class StoryMenuState extends MusicBeatState
 	];
 	var curDifficulty:Int = 1;
 
-	public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true, true];
+	public static var weekUnlocked:Array<Bool> = [true, true];
 
 	var weekCharacters:Array<Dynamic> = [
-		// ['', 'bf', 'gf'],
+		['', 'bf', 'gf'],
 		// ['dad', 'bf', 'gf'],
 		// ['spooky', 'bf', 'gf'],
 		// ['pico', 'bf', 'gf'],
@@ -51,7 +51,7 @@ class StoryMenuState extends MusicBeatState
 	];
 
 	var weekNames:Array<String> = [
-		// "",
+		"",
 		// "Daddy Dearest",
 		// "Spooky Month",
 		// "PICO",
