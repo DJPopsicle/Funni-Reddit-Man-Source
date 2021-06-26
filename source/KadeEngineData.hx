@@ -90,6 +90,12 @@ class KadeEngineData
 		if (FlxG.save.data.altNotepack == null)
 			FlxG.save.data.altNotepack = false;
 
+		if (FlxG.save.data.cheats == null)
+			FlxG.save.data.cheats = false;
+		
+		if (FlxG.save.data.scrollspeedchanger == null)
+			FlxG.save.data.scrollspeedchanger = false;
+
 		Conductor.recalculateTimings();
 		PlayerSettings.player1.controls.loadKeyBinds();
 		KeyBinds.keyCheck();

@@ -2176,11 +2176,20 @@ class PlayState extends MusicBeatState
 			}
 			#end
 		}
-
-		if (FlxG.keys.justPressed.FOUR)
-		{
-			health = 2;
-		}
+		if (FlxG.save.data.hardBeaten)
+			FlxG.save.data.cheats = true;
+		if (FlxG.save.data.cheats)
+			if (FlxG.keys.justPressed.FOUR)
+			{
+				health = 2;
+			}
+			if (FlxG.save.data.scrollspeedchanger)
+				if (FlxG.keys.justPressed.MINUS)
+					FlxG.save.data.scrollSpeed -= 1;
+				if (FlxG.keys.justPressed.PLUS)
+					FlxG.save.data.scrollSpeed += 1;
+			if (FlxG.keys.justPressed.ONE)
+				endSong();
 
 		if (dad.curCharacter == "bs-juki"){
 			dad.y += Math.sin(floatshit);
@@ -2843,6 +2852,8 @@ class PlayState extends MusicBeatState
 						switch(curSong.toLowerCase())
 						{
 							case 'possession':
+								if (curSong.toLowerCase().contains('possession') && storyDifficulty == 2)
+									FlxG.save.data.hardBeaten = true;
 								if (health == 2) {
 									trace('true ending cuz ur good');
 									LoadingState.loadAndSwitchState(new TrueEndingState());

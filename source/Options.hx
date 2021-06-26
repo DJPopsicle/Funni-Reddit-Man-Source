@@ -628,6 +628,26 @@ class AltNotePackOption extends Option
 		return "Alt Note style " + (FlxG.save.data.altNotepack ? "on" : "off");
 }
 
+class ScrollspeedChangerOption extends Option
+{
+	public function new(desc:String)
+	{
+		super();
+		description = desc;
+	}
+	
+	public override function press():Bool
+	{
+		FlxG.save.data.scrollspeedchanger = !FlxG.save.data.scrollspeedchanger;
+		trace('Scroll Speed Hotkeys : ' + FlxG.save.data.scrollspeedchanger);
+		display = updateDisplay();
+		return true;
+	}
+	
+	private override function updateDisplay():String
+		return "Scroll Speed Hotkeys " + (FlxG.save.data.cheats ? "on" : "off");
+}
+
 class OffsetMenu extends Option
 {
 	public function new(desc:String)

@@ -63,8 +63,16 @@ class OptionsMenu extends MusicBeatState
 			new WatermarkOption("Enable and disable all watermarks from the engine."),
 			new BotPlay("Showcase your charts and mods with autoplay."),
 			new FullscreenOption("Make the game go fullscreen as soon as you open it.")
-		])
-		
+		]),
+
+		if (FlxG.save.data.cheats)
+		{
+			new OptionCategory("Cheats", [
+				#if desktop
+				new ScrollspeedChangerOption("Enable the ability to change scroll speed in-game.")
+				#end
+			])
+		}
 	];
 
 	public var acceptInput:Bool = true;
